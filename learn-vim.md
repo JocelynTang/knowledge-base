@@ -179,7 +179,7 @@ g, - go to newer position in change list
 g; - go to older position in change list
 Ctrl + ] - jump to the tag under cursor
 ```
-Tip: To jump to a mark you can either use a backtick (<`>) or an apostrophe ('). Using an apostrophe jumps to the beginning (first non-blank) of the line holding the mark.
+Tip: To jump to a mark you can either use a backtick <`> or an apostrophe ('). Using an apostrophe jumps to the beginning (first non-blank) of the line holding the mark.
 
 ## Macros
 ```
